@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/lijunkai-zju)
+[![Junkai](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/lijunkai-zju)
 
 He is currently pursuing a Doctor's Degree in Quantum Physics, at School of Physucs, Zhejiang University, China.
 
