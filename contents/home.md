@@ -1,11 +1,9 @@
-
-
-[![Junkai](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/lijunkai-zju)
-
+#### About me
+Junkai Li is a PhD student at Zhejiang University, China. He received his Bachelor's Degree in Physics from Shanxi University, China, in 2020.
 He is currently pursuing a Doctor's Degree in Quantum Physics, at School of Physucs, Zhejiang University, China.
 
 #### Email
-junkai-li[at]zju.edu.cn
+junkai-li@zju.edu.cn
 
 #### Education
 M.E., Physics, Zhejiang University, 2020—2025 (expected).\
