@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/lijunkai-zju)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Doctor's Degree in Quantum Physics, at School of Physucs, Zhejiang University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+junkai-li[at]zju.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Physics, Zhejiang University, 2020—2025 (expected).\
+B.E., Physics (National Base Class), Shanxi University, 2016—2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Quantum Computation, Quantum Simulation, Topological Phase, Deep Learning, Quantitative Finance, Artificial Intelligence.
 

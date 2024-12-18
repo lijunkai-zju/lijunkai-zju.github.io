@@ -1,12 +1,17 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+<strong>(1) Acoustic/Optical Quantum Simulation of Topological Phases</strong>
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Junkai Li</strong>, Qingyang Mo, Jian-Hua Jiang, Zhaoju Yang. Higher-order topological phase in an acoustic fractal lattice. <strong>Science Bulletin</strong> 67 (2022) 2040-2044. <strong>(Cover Paper)</strong>[[Paper]](https://doi.org/10.1016/j.scib.2022.09.024)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Qingyang Mo, Yeyang Sun, <strong>Junkai Li</strong>, Zhichao Ruan, and Zhaoju Yang. Imaginary-Disorder-Induced Topological Phase Transitions. <strong>Phys. Rev. Applied</strong> 18, 064079 (2022). [[Paper]](http://dx.doi.org/10.1103/PhysRevApplied.18.064079)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Junkai Li</strong>, Yeyang Sun, Qingyang Mo, Zhichao Ruan, Zhaoju Yang. Observation of squeezed Chern insulator in an acoustic fractal lattice, <strong>Phys. Rev. Reaserch</strong>, 5, 023189(2023). [[Paper]](https://doi.org/10.1103/PhysRevResearch.5.023189) 
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- SUN Ye-Yang, <strong>LI Jun-Kai</strong>, YANG Zhao-Ju. Looking for the nontrivial states of matter from fractals[J]. <strong>PHYSICS</strong>, 2023, 52(4): 232-238. [[Paper]](https://dx.doi.org/10.7693/wl20230402) 
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Tuo Wan, Kai Zhang, <strong>Junkai Li</strong>, Zhesen Yang, Zhaoju Yang. Observation of dynamical degeneracy splitting for the non-Hermitian skin effect, <strong>Science Bulletin</strong>, 2023, 68(2023) 2330-2335. [[Paper]](https://doi.org/10.1016/j.scib.2023.09.013) 
 
+<strong>(2) Quantum Computing - Quantum Simulation of Quantum Multibody Systems</strong>
+
+- <strong>Junkai Li</strong>, Lei Ying, Zhaoju Yang. Imaginary-disorder induced many-body localization and dynamical jumping, <strong>Phys. Rev. B</strong> 110, 165101 (2024). [[Paper]](https://doi.org/10.1103/PhysRevB.110.165101) 
+
+- Zhaoxin Wu, <strong>Junkai Li</strong>, Tuo Wan, Zhaoju Yang. Simulating 4D quantum Hall effect with two bosons in a 1D quasicrystal, <strong>Optical Materials Express</strong>, 14 , 1670-1675 (2024). [[Paper]](https://opg.optica.org/ome/fulltext.cfm?uri=ome-14-7-1670&id=551477) 
